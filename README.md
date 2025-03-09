@@ -16,7 +16,7 @@ The Whisper Transcription App is a GUI application that transcribes audio files 
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/DinklebergM/whisper-transcription-app.git
+git clone [https://github.com/DinklebergM/whisper-transcription-app.git](https://github.com/DinklebergM/SpeachToText/edit/master/README.md)
 cd whisper-transcription-app
 ```
 
