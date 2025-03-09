@@ -1,0 +1,48 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Virtual environments
+venv/
+env/
+ENV/
+
+# Local development settings
+.env
+.vscode/
+.idea/
+
+# Whisper Models - these will be downloaded at runtime
+*.pt
+
+# Temporary audio files
+_temp_whisper.*
+
+# OS specific files
+.DS_Store
+Thumbs.db
+
+# Log files
+*.log
+
+# Temporary transcription files
+*.txt
+!requirements.txt
+
+# FFmpeg binary (if placed in project directory)
+ffmpeg.exe
+
+# User-specific configuration
+config.ini
+user_preferences.json
+
+# Test audio files
+*.mp3
+*.wav
+*.ogg
